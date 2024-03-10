@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anchal Patidar(@ruchircodes24)
+- 👋 Hi, I’m Anchal Patidar(@apatidar24)
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning React.js
 - 💞️ Exploring opportunities to collaborate on exciting projects.
