@@ -1,1 +1,5 @@
-# README1.md
+- 👋 Hi, I’m Anchal Patidar(@ruchircodes24)
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning React.js
+- 💞️ Exploring opportunities to collaborate on exciting projects.
+- 📫 Reach out to me on **Linkedin**: www.linkedin.com/in/anchalpatidar244 or via **email**: anchalpatidar244@gmail.com
